@@ -1,4 +1,42 @@
-lusrmgt.msc - გამოაწვს თულსი რომლიდანაც შესაძლებელია სწრაფად შევცვალოთ იუზერის პაროლი, აგრეთვე ადმინისტრატორი გაავტიუროთ
+lusrmgr.msc - გამოაწვს თულსი რომლიდანაც შესაძლებელია სწრაფად შევცვალოთ იუზერის პაროლი, აგრეთვე ადმინისტრატორი გაავტიუროთ
 
 mrt - ჩადგმული ანტივირუსული თულსი
+
+
+wqindows + H - მოკარნხე
+
+mdsched.exe -  გადატვირთული მეხსიერების შემოწმება
+
+რესტარტის და გამორთვის სწრაფი ღილაკის შექმნა - shutdown /r /t 0
+
+
+Windows + x > terminal admin > slmgr /rearm
+
+გაზიარებული ფოლდერების ნახვა - fsmgmt.msc
+
+ბორთვების გააქიტუება msconfig > booT > advanced
+
+mstsc რემოუტის დაწყება
+window აქტივაცია regedit > HOTKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Services > SVSVC > Start > მოდიფიცირებისას დააყენე ველიუ 4
+
+cmd > sc config wuauserv start= disabled - აპდეიტის გამორთვა
+
+პოწერ შელით სტარიტ კორექტირება > iwr -useb https://christitus.com/win | iex
+
+ბიოსში შესვლა სისტემიდან > shuwdown /r /fw /t 1
+
+%temp% - გასუფთავება
+
+sysdm.cpl > advanced > Settings -  ზედმეტი ეფექტების მოშორება
+
+https://getintopc.com/all-software-categories/
+
+აქტივაცია - power shell > irm https://massgrave.dev/get | iex
+
+
+
+
+
+
+
 
