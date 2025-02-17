@@ -32,6 +32,7 @@ sysdm.cpl > advanced > Settings -  ზედმეტი ეფექტებ�
 https://getintopc.com/all-software-categories/
 
 აქტივაცია - power shell > irm https://massgrave.dev/get | iex
+სხვა ვარიანტი აქტივაციის - irm https://get.activated.win | iex
 
 
 Windows+Shift+R - რეკორდერი
